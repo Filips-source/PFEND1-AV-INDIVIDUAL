@@ -1,4 +1,3 @@
-// Inicia Next.js (3000) e Express (3001) em um único comando.
 const { spawn } = require("node:child_process");
 const path = require("node:path");
 

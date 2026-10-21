@@ -2,8 +2,6 @@
 
 import { Carousel } from 'react-bootstrap';
 
-// Para usar fotos reais, basta trocar o "imagem" de cada slide
-// (arquivo dentro de /public ou URL completa).
 const SLIDES = [
   {
     imagem: '/carrossel/piloto.svg',
