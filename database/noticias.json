@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "Caos na largada em Spa: múltiplos protótipos LMP3 se envolvem em forte colisão na curva La Source",
+    "categoria": "LMP3",
+    "resumo": "Um acidente em cadeia logo nos primeiros metros da etapa de Spa-Francorchamps da Michelin Le Mans Cup tirou diversos carros da corrida e causou bandeira vermelha imediata.",
+    "conteudo": "A rodada de Spa-Francorchamps da Michelin Le Mans Cup começou de maneira dramática. Logo na largada, na aproximação da tradicional curva La Source, o protótipo Duqueine M30-D08 (#85 da equipe R-ace GP), que largava na pole position, foi atingido em cheio pelo Ligier JS P320 (#2 da CD Sport) guiado por Shahan Sarkissian, que perdeu o ponto de frenagem. O impacto provocou uma reação em cadeia que envolveu diretamente os LMP3 #66 da Rinaldi Racing e #7 da Nielsen Racing, além de danificar outros bólidos do pelotão. A prova precisou de intervenção imediata da direção de prova com bandeira vermelha para a remoção segura dos destroços na reta principal. Felizmente, todos os pilotos envolvidos saíram ilesos.",
+    "data": "2024-08-24",
+    "imagem": "https://i.ytimg.com/vi/kPn9UYvQ6Tg/maxresdefault.jpg",
+    "imagens": [
+      "https://i.ytimg.com/vi/kPn9UYvQ6Tg/maxresdefault.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKx-vVIKxSJQ8e7fd15hgBlnx6WYhfmdNpFXDmtpxZii1tlxhen1w8KHo&s=10",
+      "https://i.ytimg.com/vi/fX6CSANMD3Q/maxresdefault.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Forte impacto entre protótipos LMP3 e GT encerra corrida com bandeira vermelha em Abu Dhabi",
+    "categoria": "LMP3",
+    "resumo": "Um violento acidente envolvendo protótipo da classe LMP3 e tráfego de GTs no Circuito de Yas Marina provocou interrupção total e danos extensos às barreiras de proteção.",
+    "conteudo": "A corrida final da Asian Le Mans Series no circuito de Yas Marina, em Abu Dhabi, foi marcada por uma longa paralisação com bandeira vermelha após um grave acidente entre protótipo e GT na reta de retorno. O piloto Mikkel Jensen colidiu com Memo Gidley em disputa de espaço em alta velocidade, resultando na destruição da carenagem de fibra de carbono do protótipo e choque pesado contra as barreiras Tecpro. O impacto espalhou detritos ao longo da pista e demandou extenso trabalho dos fiscais para recompor a segurança do circuito. Ambos os pilotos foram avaliados no centro médico e liberados sem ferimentos graves.",
+    "data": "2026-02-03",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwNdNZCi0W4w4QrDvypBBMdHkl_Y1E_FcGQqN3kkuJhncs3AkViORC-c&s=10",
+    "imagens": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwNdNZCi0W4w4QrDvypBBMdHkl_Y1E_FcGQqN3kkuJhncs3AkViORC-c&s=10",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Nova Era na LMP3: Ligier JS P325 estreia com motor V6 Biturbo e revoluciona o grid de protótipos",
+    "categoria": "LMP3",
+    "resumo": "A terceira geração da LMP3 marca o fim do lendário V8 aspirado e introduz propulsores 3.5L V6 biturbo da Toyota, trazendo saltos de torque, novas soluções de refrigeração e chassi refinado.",
+    "conteudo": "A categoria LMP3 passa por uma das transformações técnicas mais importantes da sua história com a homologação oficial da terceira geração de protótipos. O grande destaque do novo regulamento da ACO (Automobile Club de l'Ouest) é a aposentadoria dos clássicos motores V8 aspirados Nissan VK56 em favor do novo motor Toyota V35A-FTS 3.5L V6 biturbo de aproximadamente 470 cv.\n\nLiderando o pelotão dessa renovação, a Ligier Automotive apresentou o Ligier JS P325, sucessor do dominante JS P320. Para lidar com a carga térmica adicional e o comportamento de torque linear dos novos turbocompressores, o protótipo recebeu um pacote de arrefecimento totalmente redesenho, melhorias na aerodinâmica de fibra de carbono da HP Composites e reforços estruturais de segurança com painéis em Zylon. A transmissão de 6 marchas Xtrac com paddle-shift pneumático da Megaline foi recalibrada para entregar trocas ainda mais ágeis. Além de modelos construídos do zero, as equipes contam com kits de conversão direta, mantendo os custos controlados na European Le Mans Series e na Michelin Le Mans Cup.",
+    "data": "2026-10-12",
+    "imagem": "https://p.turbosquid.com/ts-thumb/8Q/jvlNKR/Be/screenshot_004/jpg/1786613977/1920x1080/fit_q87/1d7958db635dbcb6bfae60654e02dfc236ecbcc2/screenshot_004.jpg",
+    "imagens": [
+      "https://p.turbosquid.com/ts-thumb/8Q/jvlNKR/Be/screenshot_004/jpg/1786613977/1920x1080/fit_q87/1d7958db635dbcb6bfae60654e02dfc236ecbcc2/screenshot_004.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0IojSCnJ7h_gjPZO4vjqWBfPrktZXJD4SrxZGzCsE7wyHo3xioS-nKBhP&s=10",
+      "https://nivelandoaengenharia.com.br/wp-content/uploads/Ginetta_G58_2021.jpg"
+    ]
+  }
+]

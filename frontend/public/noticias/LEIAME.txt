@@ -1,0 +1,1 @@
+Coloque aqui as fotos (ex.: acidente1.jpg) e use /noticias/acidente1.jpg no formulário.
